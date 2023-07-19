@@ -12,7 +12,7 @@ int main(){
 
     if(x1==x2){
     cout << "YES";
-    }
+    } else cout << "NO";
   }
   else {cout << "NO";}
 
