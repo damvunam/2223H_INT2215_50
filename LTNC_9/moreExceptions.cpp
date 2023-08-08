@@ -24,7 +24,7 @@ int main()
 
     while (T-- > 0)
     {
-        if (scanf("%d %d", &n, &p) == 2)
+        if (cin >> n >> p)
         {
             try
             {
